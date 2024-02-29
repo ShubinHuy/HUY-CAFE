@@ -1,33 +1,10 @@
-body {
-    background-color: ivory;
-    width: 800px;
-    margin: 0 auto;
-}
+body{background-color: black;
+width: 800px;
+margin: 0 auto;}
 h2 {
-    background-color: forestgreen;
-    color: honeydew;
-    border-bottom: 6px solid darkgreen;
-    padding: 6px 12px 12px;
-    margin-bottom: 0;
-}
+background-color: gold;
+color: crimson;
+border: 6px solid yellowgreen;
+padding: 12px;}
 h1{font-size: 48px;}
-
-.box{background-color: chartreuse;
-padding: 12px;
-border-radius: 0 0 16px 16px;}
-
-h1{background-color: chocolate;
-font-size: 48px;
-color: ivory;
-margin: 0;
-padding: 16px;}
-nav{background-color: darkgreen;
-padding: 0 16px;}
-nav ul{list-style: none;
-margin: 0;
-display: flex;
-justify-content: space-around;
-align-items: center;
-height: 40px;}
-nav a {color: ivory;}
-nav a:hover{color: gray;}
+p{color: ivory;}
